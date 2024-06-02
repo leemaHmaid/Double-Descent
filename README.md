@@ -28,12 +28,4 @@ The experiment also studies the effect of different regularization parameters (
 
 The results are visualized using plots that show the test error as a function of training set size for different regularization strengths. These plots help to illustrate the double descent phenomenon and the impact of regularization on model performance.
 
-Contributing
-
-Contributions are welcome! Please follow these steps:
-
-Fork the repository.
-Create a new branch (git checkout -b feature/your-feature-name).
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature/your-feature-name).
-Create a new Pull Request.
+ 
